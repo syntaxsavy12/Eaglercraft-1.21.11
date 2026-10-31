@@ -1,8 +1,0 @@
-/javascript/offline/Eaglercraft_1.21_Offline_International.html filter=lfs diff=lfs merge=lfs -text
-/javascript/offline/Eaglercraft_1.21_Offline_en_US.html filter=lfs diff=lfs merge=lfs -text
-/javascript/web/assets.epk filter=lfs diff=lfs merge=lfs -text
-/javascript/web/classes.js filter=lfs diff=lfs merge=lfs -text
-/javascript/web/classes.js.map filter=lfs diff=lfs merge=lfs -text
-/javascript/web/lang/en_us.json filter=lfs diff=lfs merge=lfs -text
-/wasm-gc/offline/Eaglercraft_1.21.11_WASM_Offline_Download.html filter=lfs diff=lfs merge=lfs -text
-/wasm-gc/web/assets.epw filter=lfs diff=lfs merge=lfs -text
