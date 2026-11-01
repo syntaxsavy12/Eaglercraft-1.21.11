@@ -1,0 +1,3 @@
+[build]
+  publish = "_site"
+  command = "rm -rf _site && mkdir -p _site/javascript _site/wasm && cp -r javascript/web/. _site/javascript/ && cp -r wasm-gc/web/. _site/wasm/"
